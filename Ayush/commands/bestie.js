@@ -2,10 +2,10 @@ module.exports.config = {
   name: "bestie",
   version: "7.3.1",
   hasPermssion: 0,
-  credits: " Priyansh Rajput", 
+  credits: " Rachit", 
   description: "Get Pair From Mention",
   commandCategory: "png",
-  usages: "[@mention]",
+  usages: "@mention",
   cooldowns: 5, 
   dependencies: {
       "axios": "",
