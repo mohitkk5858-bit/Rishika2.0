@@ -1,5 +1,5 @@
 {
-"name": "Ayush",
+"name": "Rachit ",
 "version": "10.1.1",
 "description": "A powerful Facebook Messenger Bot made by Ayush Jaat.",
 "main": "rudra.js",
@@ -30,7 +30,7 @@
 "fb-bot",
 "ai"
 ],
-"author": "🛡️ Ayush Jaat",
+"author": "🛡️ Rachit Thakur",
 "license": "GPL-3.0",
 "dependencies": {
 "@distube/ytdl-core": "^4.16.5",
