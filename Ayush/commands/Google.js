@@ -4,8 +4,8 @@ module.exports.config = {
 	name: "googlebar",
 
 	version: "1.0.0",
-	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	hasPermssion: All,
+	credits: "Rachit Thakur",
 	description: "Comment on table ( ͡° ͜ʖ ͡°)",
 	commandCategory: "edit-img",
 	usages: "google [text]",
