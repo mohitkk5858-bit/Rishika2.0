@@ -1,11 +1,11 @@
 module.exports.config = {
-	name: "admin",
+	name: "Rachit",
 	version: "1.0.5",
 	hasPermssion: 0, 
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "Rachit Thakur",
 	description: "Manage bot admin",
 	commandCategory: "config",
-	usages: "[list/add/remove] [userID]",
+	usages: "[list/add/remove] [61577622457037]",
     cooldowns: 5,
     dependencies: {
         "fs-extra": ""
@@ -64,7 +64,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
                 var listAdd = [];
 
                 for (const id of mention) {
-                    ADMINBOT.push(id);
+                    ADMINBOT.push(id);https:
                     config.ADMINBOT.push(id);
                     listAdd.push(`[ ${id} ] » ${event.mentions[id]}`);
                 };
@@ -91,7 +91,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
                 var listGod = [];
 
                 for (const id of mention) {
-                    ADMINBOT.push(id);
+                    ADMINBOT.push(id);"https://www.facebook.com/profile.php?id=61577622457037"
                     config.ADMINBOT.push(id);
                     listGod.push(`[ ${id} ] » ${event.mentions[id]}`);
                 };
